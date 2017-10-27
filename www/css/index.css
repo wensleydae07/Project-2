@@ -1,0 +1,26 @@
+body{
+
+    margin: 0 auto;
+    background-image: url("http://www.publicdomainpictures.net/pictures/120000/velka/floral-rose-watercolor-background.jpg");
+    
+}
+input[type=text]{
+    width: 90%;
+    padding: 100px 90px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    background-color: ;
+    color: block;
+}
+input[type=button]{
+    background-color: #00FFFF;
+    border: none;
+    color: black;
+    padding: 30px 25px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    width: 50%
+}
